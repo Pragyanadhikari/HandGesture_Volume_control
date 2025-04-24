@@ -46,7 +46,7 @@ To run on Windows, you'll need to install [`pypaw`](https://pypi.org/project/pyp
 Dependencies are listed in the `requirements.txt` file and include:
 - `opencv-python`
 - `mediapipe`
-- `pyobjc-framework-CoreAudio` (macOS only)
+- `osascript` (macOS only)
 - `pypaw` (Windows only)
 
 Install them with:
@@ -61,7 +61,7 @@ This project uses:
 - **OpenCV** for video capture and image processing.
 - **Mediapipe** for hand tracking and gesture detection.
 - System volume control libraries:
-  - `pyobjc-framework-CoreAudio` on macOS.
+  - `osascript` on macOS.
   - `pypaw` on Windows.
 
 The distance between the thumb and index finger determines the volume level dynamically.
