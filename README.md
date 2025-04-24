@@ -14,7 +14,7 @@ This project uses computer vision to detect hand gestures and adjust the volume 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/gesture-volume-control.git
+git clone https://github.com/Pragyanadhikari/HandGesture_Volume_control.git
 cd gesture-volume-control
 ```
 
